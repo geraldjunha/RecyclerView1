@@ -1,7 +1,8 @@
 # RecyclerView1
 
 ###SCREENSHOT
-![SCREENSHOT 1](https://s16.postimg.org/t66t2f5j9/Recycler_View1a.png)
+![SCREENSHOT 1](https://s21.postimg.org/6qrtfschz/Recycler_View1.png)
+![SCREENSHOT 2](https://s18.postimg.org/dlb2t37zt/Recycler_View1_1.png)
 
 ###DATA DIRI
 - NAMA : M.Gerald Junhakristama
